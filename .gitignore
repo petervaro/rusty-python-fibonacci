@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+
+*.so
+*.dylib
+*.dll
