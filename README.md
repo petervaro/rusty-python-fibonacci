@@ -10,9 +10,9 @@ fibonacci series up until [`std::u64::MAX`][110] lazily.
 ## Installation and test
 
 1. Install `rustup` (with your OS's package manager or via [this script][120])
-2. Install nightly Rust which is need for `pyo3` (for now)
+2. Install nightly Rust which is needed by `pyo3` (for now)
    ```bash
-   $ cd path/to/rusy-python
+   $ cd path/to/rusty-python-fibonacci
    $ rustup override set nightly
    ```
 3. Compile extension module:
